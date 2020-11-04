@@ -1,6 +1,5 @@
 ### Hi there, I'm SUJON AHMED 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/sujon-ahmed)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SUJONAHMED?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sujonahmed424)
 
 ### Connect with me:
