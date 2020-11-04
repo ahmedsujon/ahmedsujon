@@ -45,7 +45,6 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 [website]: http://talentotech.com/
 [twitter]: https://twitter.com/sujonahmed424
