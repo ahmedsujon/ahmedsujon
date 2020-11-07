@@ -37,6 +37,7 @@
 
 ### 📕 Latest Projects I Developed
 
+- [Ecotripers](https://ecotrippers.net/)
 - [Future Study](http://www.future.study/)
 - [BanglaMap24](http://banglamap24.com/)
 - [R & A Solution](https://r-asolution.com/)
