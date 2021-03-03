@@ -37,6 +37,7 @@
 
 ### 📕 Latest Projects I Developed
 
+- [DudeShape](https://dudeshape.com/)
 - [Ecotripers](https://ecotrippers.net/)
 - [Future Study](http://www.future.study/)
 - [BanglaMap24](http://banglamap24.com/)
