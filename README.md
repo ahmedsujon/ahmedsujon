@@ -35,7 +35,7 @@
 
 ---
 
-### 📕 Latest Projects that I Design & Develope.
+### 📕 Latest Projects that I Design & Developed.
 
 - [University Apply Board](https://dudeshape.com/university-apply-board/)
 - [DudeShape](https://dudeshape.com/)
