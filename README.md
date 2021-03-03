@@ -35,9 +35,11 @@
 
 ---
 
-### 📕 Latest Projects I Developed
+### 📕 Latest Projects that I Design & Develope.
 
+- [University Apply Board](https://dudeshape.com/university-apply-board/)
 - [DudeShape](https://dudeshape.com/)
+- [House Rant](https://dudeshape.com/house/)
 - [Agency Landing Page](https://dudeshape.com/agency-landing-page/)
 - [Course](https://dudeshape.com/course-landing-page/)
 - [Ecotripers](https://ecotrippers.net/)
