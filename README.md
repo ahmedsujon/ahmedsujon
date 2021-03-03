@@ -38,6 +38,7 @@
 ### 📕 Latest Projects I Developed
 
 - [DudeShape](https://dudeshape.com/)
+- [Agency Landing Page](https://dudeshape.com/agency-landing-page/)
 - [Course](https://dudeshape.com/course-landing-page/)
 - [Ecotripers](https://ecotrippers.net/)
 - [Future Study](http://www.future.study/)
