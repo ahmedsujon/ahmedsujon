@@ -46,7 +46,7 @@
 - [Future Study](http://www.future.study/)
 - [BanglaMap24](http://banglamap24.com/)
 - [R & A Solution](https://r-asolution.com/)
-- [Frostynova](https://staging3.frostynova.com/)
+- [Frostynova](https://dudeshape.com/frostynova-frontend/)
 
 
 [website]: http://talentotech.com/
