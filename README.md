@@ -43,7 +43,7 @@
 - [Agency Landing Page](https://dudeshape.com/agency-landing-page/)
 - [Course](https://dudeshape.com/course-landing-page/)
 - [Ecotripers](https://ecotrippers.net/)
-- [Future Study](http://www.future.study/)
+- [Future Study](https://dudeshape.com/university-apply-board/)
 - [BanglaMap24](http://banglamap24.com/)
 - [R & A Solution](https://r-asolution.com/)
 - [Frostynova](https://dudeshape.com/frostynova-frontend/)
