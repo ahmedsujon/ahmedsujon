@@ -41,7 +41,7 @@
 - [DudeShape](https://dudeshape.com/)
 - [House Rant](https://dudeshape.com/preview/house/)
 - [Frostynova](https://dudeshape.com/preview/frostynova-frontend/)
-- - [Real Estate Agency Landing Page](https://dudeshape.com/preview/real-estate-agency/)
+- [Real Estate Agency Landing Page](https://dudeshape.com/preview/real-estate-agency/)
 - [RadioSylnet](http://radiosylnet.com/)
 - [Agency Landing Page](https://dudeshape.com/preview/agency-landing-page/)
 - [Course](https://dudeshape.com/preview/course-landing-page/)
