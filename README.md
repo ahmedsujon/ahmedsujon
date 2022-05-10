@@ -19,8 +19,6 @@ I’m Sujon Ahmed, a senior full-stack engineer, creative coder and self-proclai
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
@@ -37,5 +35,4 @@ I’m Sujon Ahmed, a senior full-stack engineer, creative coder and self-proclai
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
-</details>
 
