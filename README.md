@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m Sujon Ahmed, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and backend development. I make it my mission to translate user-focused designs and develop into pixel-perfect websites or applications that run blazing fast.
+I’m Sujon Ahmed, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and backend development. I make it my mission to develop your idea into pixel-perfect applications that run blazing fast.
 
 ## 💼 Skills
 
