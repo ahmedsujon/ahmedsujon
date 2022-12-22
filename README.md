@@ -36,6 +36,7 @@ I’m Sujon Ahmed, a senior full-stack engineer, creative coder and self-proclai
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-aws-informational?style=flat&logo=aws-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Server-AWS-informational?style=flat&logo=aws-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Server-DigitalOcean-informational?style=flat&logo=digitalOcean-Software&logoColor=white&color=4AB197)
 
 
